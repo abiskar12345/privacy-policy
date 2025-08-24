@@ -90,4 +90,4 @@
 - Follows industry best practices for data protection
 - Regular reviews to ensure ongoing compliance
 
-## By installing this extension you will be accepting our privacy and policy 
+## By installing this extension you will agree our privacy and policy 
